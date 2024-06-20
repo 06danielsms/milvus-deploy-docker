@@ -1,0 +1,4 @@
+/volumes
+/.vscode
+.milvus_demo.db.lock
+milvus_demo.db
